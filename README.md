@@ -37,6 +37,8 @@ Training procedure is to find out the optimum value of σ. Best practice is that
    
 ## Example
    
+   Retrieved from [3]
+   
 ![Example](https://github.com/muhendis/Design-of-Generalized-regression-neural-networks-library-from-scratch/blob/master/img/example.PNG)
 
                                                   
