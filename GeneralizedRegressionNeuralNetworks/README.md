@@ -1,1 +1,1 @@
-This page is contains generalized regression neural networks algorithm .
+This directory is contains generalized regression neural networks algorithm .
